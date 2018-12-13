@@ -1,5 +1,5 @@
 # InteractiveVisualizations
-This Repository Has a Few Code for Some Interesting Visualizations in the Processing Language
+This Repository Has a Few Codes for Some Interesting Visualizations in the Processing Language
 
 StockMarketVisualizer uses the squarified method for visualizing hierarchy data, data is in (.csv) format
 and contains the stock prices for many companies, their business sector, subsector,
